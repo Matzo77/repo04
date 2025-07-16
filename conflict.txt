@@ -1,2 +1,1 @@
-conflicting code from develop branch
-
+add conflict.txt with bugfix content
